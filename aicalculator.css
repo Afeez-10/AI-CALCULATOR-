@@ -11,14 +11,23 @@ body{
     text-align:center;
 }
 .fun1{
-      margin: 0px;
+      margin: 10px;
       padding: 100px;    
       background-color:#ffc700;
+      text-decoration:none;
+      border:solid , 10px;
+      border-radius:100px;
+      border-color:#ff0a00;
+      
 }
 .fun2{
-    margin: 0px;
-    padding: 100px;
+    margin:10px;
+    padding:100px;
     background-color:#ff0a00;
+    border:solid , 10px;
+    border-radius: 100px;
+    border-color:#ffc700;
+    
 }
 #calcfoot{
     color:#fff12b;
