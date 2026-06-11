@@ -1,0 +1,27 @@
+h1{
+    font-size:50px;
+    text-align:center;
+    color:#ffffff;
+}
+body{
+    background-color:#00ff57;
+}
+.fun{
+    display:grid;
+    text-align:center;
+}
+.fun1{
+      margin: 0px;
+      padding: 100px;    
+      background-color:#ffc700;
+}
+.fun2{
+    margin: 0px;
+    padding: 100px;
+    background-color:#ff0a00;
+}
+#calcfoot{
+    color:#fff12b;
+    text-align:center;
+    background-color:#0c4f00;
+}
